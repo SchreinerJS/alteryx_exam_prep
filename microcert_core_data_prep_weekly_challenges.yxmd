@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.3">
+  <Nodes>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="65" y="809" width="674" height="266" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 9</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="10">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="90" y="858" width="624" height="192" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>Alteryx Designer Core Micro-credential foundation suggested Weekly Challenges:
+
+• Unofficial Holidays
+• Where There’s a Whale There’s a Way
+• Elapsed Classroom Times
+• Eurovision
+• Where is the party?
+• Hotel Reservations
+• Relatively Old
+• Aggregate Consumer Purchases
+• Data Blending for Batch Output
+• Prep a Shoe List</Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor name="White" />
+              <Shape shape="0" />
+              <Justification Justification="4" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="822" y="227" width="362" height="290" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Priority Challenges:</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="8">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="847" y="276" width="312" height="216" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>Suggested for two or more microcerts:
+
+Challenge #164: Retail Therapy
+Challenge #298: Christmas Treasure Box
+Challenge #335: Movie Decisions
+Challenge #321: Eurovision
+Challenge #46: Formatting a Date from an Integer
+Challenge #120: Popular Baby Names
+Challenge #322: Good Ladies Heist
+Challenge #168: Dice Game - Born to Solve</Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor name="White" />
+              <Shape shape="0" />
+              <Justification Justification="4" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="54" y="299" width="698" height="254" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Microcert Prep - Data Manipulation</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="6">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="79" y="348" width="648" height="180" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>Alteryx Designer Core Micro-credential data manipulation suggested Weekly Challenges:
+
+Challenge #16: Parsing Out the New-line Character
+Challenge #2: Preparing Delimited Data
+Challenge #298: Christmas Treasure Box
+Challenge #335: Movie Decisions
+Challenge #68: Elapsed Classroom Times
+Challenge #145: SANTALYTICS 2018 - Part 1
+Challenge #168: Dice Game - Born to Solve
+Challenge #222: Where There's a Whale There's a way
+Challenge #46: Formatting a Date from an Integer
+Challenge #120: Popular Baby Names
+Challenge #322: Good Ladies Heist</Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor name="White" />
+              <Shape shape="0" />
+              <Justification Justification="4" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="54" y="575" width="698" height="194" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Microcert Prep - Data Transformation</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="4">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="79" y="624" width="648" height="120" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>Alteryx Designer Core Micro-credential data transformation suggested Weekly Challenges:
+
+Challenge #164: Retail Therapy
+Challenge #335: Movie Decisions
+Challenge #338: Let's Summarize!
+Challenge #331: Time for College!
+Challenge #168: Dice Game - Born to Solve
+Challenge #321: Eurovision
+Challenge #88: Counting Combinations</Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor name="White" />
+              <Shape shape="0" />
+              <Justification Justification="4" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="54" y="54" width="698" height="223" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Microcert Prep - Data Preparation</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="2">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="79" y="103" width="648" height="149" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text><![CDATA[Alteryx Designer Core Micro-credential data preparation suggested Weekly Challenges:
+
+Challenge #164: Retail Therapy
+Challenge #298: Christmas Treasure Box
+Challenge #335: Movie Decisions
+Challenge #321: Eurovision
+Challenge #46: Formatting a Date from an Integer
+Challenge #120: Popular Baby Names
+Challenge #35: Data Cleansing Practice
+Challenge #322: Good Ladies Heist ]]></Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor name="White" />
+              <Shape shape="0" />
+              <Justification Justification="4" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>microcert_core_data_prep_weekly_challenges</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="1556ef9f-15d4-4457-b9dc-ff7225c42d3d" />
+      <Telemetry>
+        <PreviousWorkflowId value="0b9771ab-2f08-4a2c-b5ea-72cf98151a6d" />
+        <OriginWorkflowId value="0b9771ab-2f08-4a2c-b5ea-72cf98151a6d" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
